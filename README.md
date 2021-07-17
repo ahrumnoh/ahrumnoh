@@ -4,7 +4,7 @@
 ### Welcome to 
 
 
-<h3 align="center"> Computer Engineer & Web-Artist </h3>
+<h3 align="center"> Computer Engineer & Software Artist </h3>
 
 - 🌱 I’m currently learning **computer languages and technologies at USYD**
 
