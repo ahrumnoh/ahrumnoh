@@ -1,4 +1,4 @@
-![ahrumnoh](https://github.com/ahrumnoh/ahrumnoh/blob/main/ahrum%20Noh.png?raw=true)
+![ahrumnoh](https://github.com/ahrumnoh/ahrumnoh/blob/main/ahrum%20Noh%20(1).pdf()
 
 
 ### Welcome to 🏡 
