@@ -11,7 +11,7 @@
 
 <br>
 
-- ===============⚠️DO NOT CLICK my [YouTube channel](https://www.youtube.com/channel/UCon7e4Dv0uVV1s9Aptup8gg) ⚠️ ===============
+- ===============  ===============  ===============⚠️DO NOT CLICK my Channel ⚠️ ===============  ===============  ===============
 - Are you curious? if you want, you must click 'Thumbs up' and subscribe. otherwise your day will screw up
 
 
