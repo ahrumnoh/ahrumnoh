@@ -11,8 +11,7 @@
 
 <br>
 
-- ===============  ===============  ===============⚠️DO NOT CLICK my Channel ⚠️ ===============  ===============  ===============
-- Are you curious? if you want, you must click 'Thumbs up' and subscribe. otherwise your day will screw up
+
 
 
 <h3 align="left">Connect with me:</h3>
