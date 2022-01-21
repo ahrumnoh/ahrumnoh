@@ -9,8 +9,8 @@
 - 🌱 I have learned **computer languages and technologies, Full-Stack development at USYD**
 - 🎧 I am a Healing Sound Specialist & Composer at 🎷 Quantum Coding: [YouTube channel](https://www.youtube.com/channel/UCon7e4Dv0uVV1s9Aptup8gg) 
 
-- ⚠️DO NOT C.L.I.C.K⚠️ 
-Are you curious? if you want, you must click 'Thumbs up' and subscribe. otherwise your day will screw up 😏
+- ⚠️DO NOT CLICK [YouTube channel](https://www.youtube.com/channel/UCon7e4Dv0uVV1s9Aptup8gg) ⚠️ 
+- Are you curious? if you want, you must click 'Thumbs up' and subscribe. otherwise your day will screw up
 
 
 <h3 align="left">Connect with me:</h3>
