@@ -7,8 +7,7 @@
 <h3 align="center"> Computer Geek & Software Outsider😏 </h3>
 
 - 🌱 I have learned **computer languages and technologies, Full-Stack development at USYD**
-- 🎧 I am a Healing Sound Specialist & Composer at 🎷 Quantum Coding: [YouTube channel](https://www.youtube.com/channel/UCon7e4Dv0uVV1s9Aptup8gg) 
-
+- 🎧 I am a Healing Sound Specialist & Composer at 🎷 Quantum Coding: [YouTube channel](https://www.youtube.com/channel/UCon7e4Dv0uVV1s9Aptup8gg) for engineers and the general public who need relaxation, meditation and concentration.
 <br>
 
 
