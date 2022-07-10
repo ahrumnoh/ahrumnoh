@@ -6,7 +6,7 @@
 
 <h3 align="center"> Computer Geek & Software Outsider😏 </h3>
 
-- 🌱 I earned **computer languages and technologies, Full-Stack development at USYD** in 2021
+- 🌱 I studied **Full-Stack development, software Engineering at USYD** in 2021
 - 💻 I am a **Blockchain Engineer at FLFI** in 2022
 
 
