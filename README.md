@@ -13,13 +13,13 @@
 - 🏫 I am taking HBAP, **MBA in Business Analytics**, Data Science (**Master Degree**) at **Harvard Business School since JULY in 2022
 
 <br>
-🎓 The Harvard Business Analytics Program is MBA in Business Analytics for Emerging and established global c-suite executive leaders, that is designed by the top minds in AI and data analytics and offered jointly by three renowned Harvard schools: 
+🎓 The Harvard Business Analytics Program is MBA in Business Analytics for Emerging and established global c-suite executive leaders, that is designed by the top minds in AI and data analytics and offered jointly by **three renowned Harvard schools**: 
 <br>
-**Harvard Business School (HBS)** || 
+🎓Harvard Business School (HBS) 
 <br>
-**The John A. Paulson School of Engineering and Applied Sciences (SEAS)** || 
+🎓The John A. Paulson School of Engineering and Applied Sciences (SEAS)
 <br>
-**The Faculty of Arts and Sciences (FAS)
+🎓The Faculty of Arts and Sciences (FAS)
 
 
 <br>
