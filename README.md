@@ -16,7 +16,9 @@
 🎓 The Harvard Business Analytics Program is MBA in Business Analytics for Emerging and established global c-suite executive leaders, that is designed by the top minds in AI and data analytics and offered jointly by three renowned Harvard schools: 
 <br>
 **Harvard Business School (HBS)** || 
+<br>
 **The John A. Paulson School of Engineering and Applied Sciences (SEAS)** || 
+<br>
 **The Faculty of Arts and Sciences (FAS)
 
 
