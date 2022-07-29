@@ -7,7 +7,7 @@
 <h3 align="center"> Computer Geek & Software Outsider😏 </h3>
 
 - 🌱 I studied **Full-Stack development, software Engineering at USYD** in 2021
-- 💻 I was a **Blockchain Engineer at FLFI** FROM MARCH TO JULY in 2022
+- 💻 I was a **Blockchain Engineer at FLFI** FROM March TO July in 2022
 - 🏫 I am taking HBAP, MBA in Business Analytics, Data Science (Master Degree) at Harvard Business School since JULY in 2022
 
 
