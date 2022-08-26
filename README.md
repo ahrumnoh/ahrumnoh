@@ -4,7 +4,7 @@
 ### Welcome to 🏡 
 
 
-<h3 align="center"> Computer Geek & Software Outsider😏 </h3>
+<h3 align="center"> Computer Geek & Software Artist </h3>
 
 - 🌱 I studied **Full-Stack development, software Engineering at USYD**, **May 2021**
 - 🏅 Final Top 7 graduates at Virtual Demo Day, Solo Project(MERN Stack), **November 2021**
