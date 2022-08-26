@@ -11,7 +11,7 @@
 - 🏅 Attendance at Virtual Demo Day for graduating students as a professional blockchain engineer and alumni of USYD as an invited mentor, **June 2022**
 - 👩‍💻 I was a **Blockchain Engineer at Hype Labs, FLFI** From **March - July in 2022**
 - 🏫 I am taking HBAP, **MBA in Business Analytics**, Data Science (Master Degree) at **Harvard Business School since JULY in 2022**
-- 💡 I joined [Lanterns.fun] as a **co-founder & a lead frontend engineer**, August in 2022
+- 💡 I joined **[Lanterns.fun]**: A.I context innovation as a co-founder & a lead frontend engineer, **August in 2022**
 
 <br>
 :: The Harvard Business Analytics Program is MBA in Business Analytics for Emerging and established global c-suite executive leaders, that is designed by the top minds in AI and data analytics and offered jointly by three renowned Harvard schools 
