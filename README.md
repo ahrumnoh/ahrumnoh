@@ -10,7 +10,7 @@
 - 🏅 Final Top 7 graduates at Virtual Demo Day, Solo Project(MERN Stack), **November 2021**
 - 🏅 Attendance at Virtual Demo Day for graduating students as a professional blockchain engineer and alumni of USYD as an invited mentor, **June 2022**
 - 👩‍💻 I was a **Blockchain Engineer at Hype Labs, FLFI** From **March - July in 2022**
-- 🏫 I am taking HBAP, **MBA in Business Analytics**, Data Science (Master Degree) at **Harvard Business School since JULY in 2022**
+- 🏫 I am taking HBAP, **MBA in Business Analytics**, Data Science at **Harvard Business School since JULY in 2022**
 
 
 <br>
