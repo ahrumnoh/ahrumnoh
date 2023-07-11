@@ -11,7 +11,7 @@
 - 🏅 Attendance at Virtual Demo Day for graduating students as a professional blockchain engineer and alumni of USYD as an invited mentor, **June 2022**
 - 👩‍💻 I was a **Blockchain Engineer at Hype Labs, FLFI** From **March - July 2022**
 - 🏫 I am taking Harvard Business Analytics Program, **Executive MBA & Data Science** at Harvard Business School since **JULY 2022**
-- 👩‍💼 I am CSO (Chief Strategy Officer) at Astar Corp **July 2023** 
+- 👩‍💼 I am CSO (Chief Strategy Officer) at **Astar Corp** - Generative A.I Company **July 2023** 
 
 
 <br>
