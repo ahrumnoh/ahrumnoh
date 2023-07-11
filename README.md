@@ -9,8 +9,9 @@
 - 🌱 I studied **Full-Stack development, software Engineering at USYD**, **May 2021**
 - 🏅 Final Top 7 graduates at Virtual Demo Day, Solo Project(MERN Stack), **November 2021**
 - 🏅 Attendance at Virtual Demo Day for graduating students as a professional blockchain engineer and alumni of USYD as an invited mentor, **June 2022**
-- 👩‍💻 I was a **Blockchain Engineer at Hype Labs, FLFI** From **March - July in 2022**
-- 🏫 I am taking HBAP, **MBA in Business Analytics**, Data Science at **Harvard Business School since JULY in 2022**
+- 👩‍💻 I was a **Blockchain Engineer at Hype Labs, FLFI** From **March - July 2022**
+- 🏫 I am taking Harvard Business Analytics Program, **Executive MBA & Data Science** at Harvard Business School since **JULY 2022**
+- 👩‍💼 I am CSO (Chief Strategy Officer) at Astar Corp **July 2023** 
 
 
 <br>
