@@ -13,7 +13,7 @@
 - 🏫 I took Harvard Business Analytics Program, **Executive MBA & Data Science** at Harvard Business School, graduated **March 2024**
 - 👩‍💼 I was the previous **CSO** (Chief Strategy Officer) at **Astar Corp** - Generative A.I Company **July 2023**
 - 👩‍💼 I am the **COO** (Chief Operating Officer) at **PT REII Automation** - AI-Driven Industrial Automation since **Dec 2024**
-- 👩‍💼 I am the **Vice President of Prouct Strategy & International Coorperation** at **Gaia Exploration** since **July 2025** 
+- 👩‍💼 I am the **Vice President** of Prouct Strategy & International Coorperation at **Gaia Exploration** since **July 2025** 
 
 
 <br>
