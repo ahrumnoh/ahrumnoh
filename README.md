@@ -6,10 +6,10 @@
 
 <h3 align="center"> Computer Geek & Software Artist </h3>
 
-- 🌱 I studied **Full-Stack development, software Engineering at USYD**, **May 2021**
+- 🌱 I studied **Full-Stack development, software Engineering at USYD**
 - 🏅 Final Top 7 graduates at Virtual Demo Day, Solo Project(MERN Stack), **November 2021**
 - 🏅 Attendance at Virtual Demo Day for graduating students as a professional blockchain engineer and alumni of USYD as an invited mentor, **June 2022**
-- 👩‍💻 I was a **Blockchain Engineer at Hype Labs, FLFI** From **March - July 2022**
+- 👩‍💻 I was a **Blockchain Engineer at Hype Labs, Hype Labs** From **March - July 2022**
 - 🏫 I took Harvard Business Analytics Program, **Executive MBA & Data Science** at Harvard Business School, graduated **March 2024**
 - 👩‍💼 I was the previous **CSO** (Chief Strategy Officer) at **Astar Corp** - Generative A.I Company **July 2023**
 - 👩‍💼 I am the **COO** (Chief Operating Officer) at **PT REII Automation** - AI-Driven Industrial Automation since **Dec 2024**
